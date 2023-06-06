@@ -1,0 +1,4 @@
+3 principales memorias de una computadora son:
+Memoria RAM (Random Access Memory): memoria volatil
+Memoria ROM (Read-Only Memory): memoria no volatil
+Memoria Cache: de alta velocidad y baja latencia

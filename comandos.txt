@@ -1,0 +1,14 @@
+   55  touch comandos.txt main.js index.html
+   56  git add .
+   57  git commit -m "commit 01 de LauraGiraldo"
+   58  git push origin main
+   59  git checkout -b feature
+   60  mkdir Hardware Software SeguridadInformatica 
+   61  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+   62  git add .
+   63  git commit -m "commit 02 de LauraGiraldo"
+   64  git push origin feature 
+   65  git checkout main
+   66  mv main.js resumenHardware.txt
+   67  mv index.html resumenSoftware.txt
+   68  history 30 > comandos.txt 
